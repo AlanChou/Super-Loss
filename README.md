@@ -1,7 +1,7 @@
 # Super Loss 
  
 This is the unofficial PyTorch implementation of the paper "SuperLoss: A Generic Loss for Robust Curriculum Learning" in NIPS 2020.<br> 
-http://papers.neurips.cc/paper/9289-data-parameters-a-new-family-of-parameters-for-learning-a-differentiable-curriculum.pdf
+https://proceedings.neurips.cc/paper/2020/file/2cfa8f9e50e0f510ede9d12338a5f564-Paper.pdf
 
 
 ## Overview
